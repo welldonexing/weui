@@ -18,12 +18,5 @@ Linux `go build -ldflags "-s -w" -o linux-weui-amd64`
 
 要想更小可以用upx工具压缩, 编译的时候注意要关闭cgo, 比如wsl2下面编译, 开启cgo可能编译的不能运行.
 
-### 赞助
-
-![微信][wx]
 
 
-![支付宝][zfb]
-
-[wx]:./wx.jpg
-[zfb]:./zfb.jpg
